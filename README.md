@@ -19,4 +19,4 @@ $ npm install
 ## License
 
 &copy; Bhavya Dang, 2018
-Released under MIT Lisence.
+Released under MIT Licensee.
