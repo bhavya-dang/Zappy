@@ -1,6 +1,9 @@
 # Zappy
 An Electron based TODO Manager.
 
+## Download
+Download the latest release from the Release tab.
+
 ## Dependencies
 
 ```bash
